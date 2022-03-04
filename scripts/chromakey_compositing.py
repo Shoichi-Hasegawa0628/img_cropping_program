@@ -10,7 +10,7 @@ class ChromakeyCompositing():
         self.compositing()
 
     def compositing(self):
-        fg_img = cv2.imread('/root/HSR/catkin_ws/src/img_cropping_program/sample1.png')
+        fg_img = cv2.imread('/root/HSR/catkin_ws/src/img_cropping_program/sample/sample1.png')
         # cv2.imshow('img', fg_img)
         # cv2.waitKey(0)
 

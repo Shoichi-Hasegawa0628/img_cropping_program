@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+
+<package format="2">
+  <name>img_cropping_program</name>
+  <version>1.0.0</version>
+  <description>The 'img_cropping_program' ROS package provides cropping images, making the image transparent .</description>
+
+  <maintainer email="hasegawa.shoichi@em.ci.ritsumei.ac.jp">Shoichi Hasegawa</maintainer>
+  <license>MIT</license>
+  <author email="hasegawa.shoichi@em.ci.ritsumei.ac.jp">Shoichi Hasegawa</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
